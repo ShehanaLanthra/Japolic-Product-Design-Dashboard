@@ -40,7 +40,7 @@ Blue is commonly associated with trust and reliability, making it a suitable cho
 
 ## 📊 Primary Screen – Infrastructure Dashboard
 
-![Japolic Primary Screen](Primary_Screen.jpg)
+![Japolic Primary Screen](./Primary_Screen.jpg)
 
 The primary dashboard provides a centralized overview of the infrastructure, helping technical users understand system status and performance at a glance.
 
